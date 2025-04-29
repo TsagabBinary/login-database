@@ -2,7 +2,11 @@
   {
     "username": "1",
     "serial": "1",
-    "expired_date": "9999-05-30",
     "role": "admin"
-  }, 
+  },
+  {
+    "username": "2",
+    "serial": "2",
+    "role": "user"
+  }
 ]
