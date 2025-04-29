@@ -1,1 +1,4 @@
-[]
+[
+    {"username": "admin", "serial": "serial123", "expired_date": "2025-12-31"},
+    {"username": "user1", "serial": "serial456", "expired_date": "2025-12-31"}
+]
