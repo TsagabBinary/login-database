@@ -17,6 +17,6 @@
     },
     "2": {
         "password": "2",
-        "role": "admin"
+        "role": "user"
     }
 }
