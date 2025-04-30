@@ -16,5 +16,17 @@
     "username": "2",
     "password": "2",
     "role": "user"
+  },
+  {
+    "id": "1746040039876",
+    "username": "5",
+    "password": "5",
+    "role": "user"
+  },
+  {
+    "username": "7",
+    "password": "7",
+    "role": "admin",
+    "id": "1746041593924"
   }
 ]
