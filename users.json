@@ -6,15 +6,15 @@
     "role": "admin"
   },
   {
-    "id": "2",
-    "username": "user",
-    "password": "$2a$10$XQtJ5/wrZfXBVcGgGvLYxeVvk3RdQszQrTY.7u3xGr7OQz8RVjlK6",
-    "role": "user"
-  },
-  {
     "id": "1746038770570",
     "username": "1",
     "password": "1",
     "role": "admin"
+  },
+  {
+    "id": "1746039308208",
+    "username": "2",
+    "password": "2",
+    "role": "user"
   }
 ]
