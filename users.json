@@ -18,9 +18,5 @@
     "2": {
         "password": "2",
         "role": "admin"
-    },
-    "4": {
-        "password": "4",
-        "role": "user"
     }
 }
