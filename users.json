@@ -16,17 +16,5 @@
     "username": "1",
     "password": "1",
     "role": "admin"
-  },
-  {
-    "id": "1746039308208",
-    "username": "2",
-    "password": "2",
-    "role": "user"
-  },
-  {
-    "id": "1746039443896",
-    "username": "3",
-    "password": "3",
-    "role": "user"
   }
 ]
