@@ -1,11 +1,5 @@
 [
   {
-    "id": "1",
-    "username": "admin",
-    "password": "$2a$10$XQtJ5/wrZfXBVcGgGvLYxeVvk3RdQszQrTY.7u3xGr7OQz8RVjlK6",
-    "role": "admin"
-  },
-  {
     "id": "1746038770570",
     "username": "1",
     "password": "1",
@@ -22,11 +16,5 @@
     "password": "7",
     "role": "admin",
     "id": "1746041593924"
-  },
-  {
-    "username": "33",
-    "password": "33",
-    "role": "admin",
-    "id": "1746041986387"
   }
 ]
