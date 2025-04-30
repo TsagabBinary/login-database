@@ -26,5 +26,9 @@
     "6": {
         "password": "6",
         "role": "admin"
+    },
+    "7": {
+        "password": "7",
+        "role": "admin"
     }
 }
