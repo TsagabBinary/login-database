@@ -1,0 +1,83 @@
+{
+  "graphics": [
+    {
+      "name": "Graphic Mod 1",
+      "image": "https://cdn.discordapp.com/attachments/1363768036560998512/1367193671417725092/image.png?ex=6817a654&is=681654d4&hm=d93aa021fd4427bfb1442498aeaf68b35af97b457cab419619bbf07a260d2ee2&",
+      "url": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&"
+    },
+    {
+      "name": "Graphic Mod 2",
+      "image": "https://cdn.discordapp.com/attachments/1363768036560998512/1367193384862617682/image.png?ex=6817a610&is=68165490&hm=a2a6972f4ac3d93219a444a2d279c4b3f653a37f62627f572885a0cca287ba81&",
+      "url": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&"
+    },
+    {
+      "name": "Graphic Mod 3",
+      "image": "https://example.com/images/graphic3.jpg",
+      "url": "https://example.com/files/graphic3.zip"
+    },
+    {
+      "name": "Graphic Mod 4",
+      "image": "https://example.com/images/graphic4.jpg",
+      "url": "https://example.com/files/graphic4.zip"
+    },
+    {
+      "name": "Graphic Mod 5",
+      "image": "https://example.com/images/graphic5.jpg",
+      "url": "https://example.com/files/graphic5.zip"
+    }
+  ],
+  "modifications": [
+    {
+      "name": "Modification 1",
+      "image": "https://example.com/images/mod1.jpg",
+      "url": "https://example.com/files/mod1.zip"
+    },
+    {
+      "name": "Modification 2",
+      "image": "https://example.com/images/mod2.jpg",
+      "url": "https://example.com/files/mod2.zip"
+    },
+    {
+      "name": "Modification 3",
+      "image": "https://example.com/images/mod3.jpg",
+      "url": "https://example.com/files/mod3.zip"
+    },
+    {
+      "name": "Modification 4",
+      "image": "https://example.com/images/mod4.jpg",
+      "url": "https://example.com/files/mod4.zip"
+    },
+    {
+      "name": "Modification 5",
+      "image": "https://example.com/images/mod5.jpg",
+      "url": "https://example.com/files/mod5.zip"
+    }
+  ],
+  "soundpack": [
+    {
+      "name": "Soundpack 1",
+      "image": "https://example.com/images/sound1.jpg",
+      "url": "https://example.com/files/sound1.zip"
+    },
+    {
+      "name": "Soundpack 2",
+      "image": "https://example.com/images/sound2.jpg",
+      "url": "https://example.com/files/sound2.zip"
+    },
+    {
+      "name": "Soundpack 3",
+      "image": "https://example.com/images/sound3.jpg",
+      "url": "https://example.com/files/sound3.zip"
+    },
+    {
+      "name": "Soundpack 4",
+      "image": "https://example.com/images/sound4.jpg",
+      "url": "https://example.com/files/sound4.zip"
+    },
+    {
+      "name": "Soundpack 5",
+      "image": "https://example.com/images/sound5.jpg",
+      "url": "https://example.com/files/sound5.zip"
+    }
+  ]
+}
