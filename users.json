@@ -1,19 +1,112 @@
-[
-  {
-    "id": "1746038770570",
-    "username": "1",
-    "password": "1",
-    "role": "admin"
-  },
-  {
-    "id": "1746042955737",
-    "username": "tsagab",
-    "password": "21212121",
-    "role": "user"
-  },
-  {
-    "username": "8",
-    "password": "8",
-    "role": "user"
-  }
-]
+"graphics": [
+        {
+            "name": "Natural Vision Evolved",
+            "description": "Mod grafis ultra-realistis untuk GTA V",
+            "image": "https://cdn.discordapp.com/attachments/1363768036560998512/1367193671417725092/image.png?ex=6817a654&is=681654d4&hm=d93aa021fd4427bfb1442498aeaf68b35af97b457cab419619bbf07a260d2ee2&",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
+            "filename": "naturalvision.zip"
+        },
+        {
+            "name": "QuantV",
+            "description": "Preset grafis cinematic dengan efek visual yang menakjubkan",
+            "image": "https://via.placeholder.com/300x200?text=QuantV",
+            "downloadUrl": "https://example.com/mods/quantv.zip",
+            "filename": "quantv.zip"
+        },
+        {
+            "name": "Redux Graphics",
+            "description": "Peningkatan visual dengan fokus pada pencahayaan realistis",
+            "image": "https://via.placeholder.com/300x200?text=Redux",
+            "downloadUrl": "https://example.com/mods/redux.zip",
+            "filename": "redux.zip"
+        },
+        {
+            "name": "M.V.G.A",
+            "description": "Make Visuals Great Again - mod grafis yang meningkatkan tekstur",
+            "image": "https://via.placeholder.com/300x200?text=MVGA",
+            "downloadUrl": "https://example.com/mods/mvga.zip",
+            "filename": "mvga.zip"
+        },
+        {
+            "name": "Real California",
+            "description": "Preset grafis yang terinspirasi dari pemandangan California",
+            "image": "https://via.placeholder.com/300x200?text=Real+California",
+            "downloadUrl": "https://example.com/mods/realcalifornia.zip",
+            "filename": "realcalifornia.zip"
+        }
+    ],
+    "modifications": [
+        {
+            "name": "Vehicle Spawner",
+            "description": "Spawn kendaraan apa saja dengan mudah",
+            "image": "https://via.placeholder.com/300x200?text=Vehicle+Spawner",
+            "downloadUrl": "https://example.com/mods/vehiclespawner.zip",
+            "filename": "vehiclespawner.zip"
+        },
+        {
+            "name": "Script Hook V",
+            "description": "Library dasar untuk menjalankan mod script",
+            "image": "https://via.placeholder.com/300x200?text=Script+Hook+V",
+            "downloadUrl": "https://example.com/mods/scripthookv.zip",
+            "filename": "scripthookv.zip"
+        },
+        {
+            "name": "Simple Trainer",
+            "description": "Trainer all-in-one untuk GTA V",
+            "image": "https://via.placeholder.com/300x200?text=Simple+Trainer",
+            "downloadUrl": "https://example.com/mods/simpletrainer.zip",
+            "filename": "simpletrainer.zip"
+        },
+        {
+            "name": "Real Life Mod",
+            "description": "Tambahkan fitur kehidupan nyata ke dalam game",
+            "image": "https://via.placeholder.com/300x200?text=Real+Life+Mod",
+            "downloadUrl": "https://example.com/mods/reallife.zip",
+            "filename": "reallife.zip"
+        },
+        {
+            "name": "Enhanced Police",
+            "description": "Tingkatkan sistem kepolisian dalam game",
+            "image": "https://via.placeholder.com/300x200?text=Enhanced+Police",
+            "downloadUrl": "https://example.com/mods/police.zip",
+            "filename": "police.zip"
+        }
+    ],
+    "soundpacks": [
+        {
+            "name": "Real Engine Sounds",
+            "description": "Suara mesin kendaraan yang lebih realistis",
+            "image": "https://via.placeholder.com/300x200?text=Engine+Sounds",
+            "downloadUrl": "https://example.com/mods/enginesounds.zip",
+            "filename": "enginesounds.zip"
+        },
+        {
+            "name": "Enhanced Radio",
+            "description": "Tambahan stasiun radio dan lagu baru",
+            "image": "https://via.placeholder.com/300x200?text=Enhanced+Radio",
+            "downloadUrl": "https://example.com/mods/radio.zip",
+            "filename": "radio.zip"
+        },
+        {
+            "name": "Weapon Sounds",
+            "description": "Suara senjata yang lebih realistis",
+            "image": "https://via.placeholder.com/300x200?text=Weapon+Sounds",
+            "downloadUrl": "https://example.com/mods/weapons.zip",
+            "filename": "weapons.zip"
+        },
+        {
+            "name": "Ambient Sounds",
+            "description": "Peningkatan suara lingkungan dan atmosfer",
+            "image": "https://via.placeholder.com/300x200?text=Ambient+Sounds",
+            "downloadUrl": "https://example.com/mods/ambient.zip",
+            "filename": "ambient.zip"
+        },
+        {
+            "name": "Police Scanner",
+            "description": "Suara radio polisi yang lebih autentik",
+            "image": "https://via.placeholder.com/300x200?text=Police+Scanner",
+            "downloadUrl": "https://example.com/mods/scanner.zip",
+            "filename": "scanner.zip"
+        }
+    ]
+}
