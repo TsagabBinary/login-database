@@ -78,7 +78,7 @@
             "name": "Real Engine Sounds",
             "description": "Suara mesin kendaraan yang lebih realistis",
             "image": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://example.com/mods/enginesounds.zip",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
             "filename": "enginesounds.zip"
         },
         {
@@ -92,21 +92,21 @@
             "name": "Weapon Sounds",
             "description": "Suara senjata yang lebih realistis",
             "image": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://example.com/mods/weapons.zip",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
             "filename": "weapons.zip"
         },
         {
             "name": "Ambient Sounds",
             "description": "Peningkatan suara lingkungan dan atmosfer",
             "image": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://example.com/mods/ambient.zip",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
             "filename": "ambient.zip"
         },
         {
             "name": "Police Scanner",
             "description": "Suara radio polisi yang lebih autentik",
             "image": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://example.com/mods/scanner.zip",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
             "filename": "scanner.zip"
         }
     ]
