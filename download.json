@@ -1,15 +1,16 @@
-"graphics": [
+{
+    "graphics": [
         {
-            "name": "Natural Vision Evolved",
+            "name": "Citizen RP",
             "description": "Mod grafis ultra-realistis untuk GTA V",
-            "image": "https://cdn.discordapp.com/attachments/1363768036560998512/1367193671417725092/image.png?ex=6817a654&is=681654d4&hm=d93aa021fd4427bfb1442498aeaf68b35af97b457cab419619bbf07a260d2ee2&",
+            "image": "https://cdn.discordapp.com/attachments/1316959127871815690/1345315421170962524/image.png?ex=6817d15f&is=68167fdf&hm=3c8b1967d1d5bf1b5b9abeaa8eabd20cb17c0b772a18495ba998e12ba42f17eb&",
             "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "naturalvision.zip"
+            "filename": "citizen rp.zip"
         },
         {
-            "name": "QuantV",
+            "name": "Citizen Sky Blue",
             "description": "Preset grafis cinematic dengan efek visual yang menakjubkan",
-            "image": "https://via.placeholder.com/300x200?text=QuantV",
+            "image": "https://cdn.discordapp.com/attachments/1316959127871815690/1344026032373497857/image.png?ex=6817bdc8&is=68166c48&hm=72ae43e0ee1d2f472539c24258765ccb26892971aef204a1d2bf741c764b5964&",
             "downloadUrl": "https://example.com/mods/quantv.zip",
             "filename": "quantv.zip"
         },
@@ -76,35 +77,35 @@
         {
             "name": "Real Engine Sounds",
             "description": "Suara mesin kendaraan yang lebih realistis",
-            "image": "https://via.placeholder.com/300x200?text=Engine+Sounds",
+            "image": "https://streamable.com/sww3qs",
             "downloadUrl": "https://example.com/mods/enginesounds.zip",
             "filename": "enginesounds.zip"
         },
         {
             "name": "Enhanced Radio",
             "description": "Tambahan stasiun radio dan lagu baru",
-            "image": "https://via.placeholder.com/300x200?text=Enhanced+Radio",
-            "downloadUrl": "https://example.com/mods/radio.zip",
+            "image": "https://streamable.com/sww3qs",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
             "filename": "radio.zip"
         },
         {
             "name": "Weapon Sounds",
             "description": "Suara senjata yang lebih realistis",
-            "image": "https://via.placeholder.com/300x200?text=Weapon+Sounds",
+            "image": "https://streamable.com/sww3qs",
             "downloadUrl": "https://example.com/mods/weapons.zip",
             "filename": "weapons.zip"
         },
         {
             "name": "Ambient Sounds",
             "description": "Peningkatan suara lingkungan dan atmosfer",
-            "image": "https://via.placeholder.com/300x200?text=Ambient+Sounds",
+            "image": "https://streamable.com/sww3qs",
             "downloadUrl": "https://example.com/mods/ambient.zip",
             "filename": "ambient.zip"
         },
         {
             "name": "Police Scanner",
             "description": "Suara radio polisi yang lebih autentik",
-            "image": "https://via.placeholder.com/300x200?text=Police+Scanner",
+            "image": "https://streamable.com/sww3qs",
             "downloadUrl": "https://example.com/mods/scanner.zip",
             "filename": "scanner.zip"
         }
