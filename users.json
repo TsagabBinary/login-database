@@ -17,6 +17,12 @@
       "serialKey": "GTAV-1111-2222-3333",
       "status": "active",
       "createdAt": "2023-07-20"
+    },
+    {
+      "serialKey": "GTAV-S47K-S9AY-4KFL-IM2N",
+      "type": "monthly",
+      "status": "active",
+      "createdAt": "2025-05-04T15:27:09.479Z"
     }
   ]
 }
