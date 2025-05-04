@@ -4,58 +4,19 @@
       "username": "1",
       "password": "1",
       "role": "admin",
-      "email": "admin@example.com",
-      "lastLogin": null,
       "permissions": [
-        "manage_users",
         "manage_settings",
         "download_mods",
-        "upload_mods"
+        "manage_users"
       ]
     },
     {
       "username": "2",
       "password": "2",
       "role": "user",
-      "email": "user1@example.com",
-      "lastLogin": null,
-      "permissions": [
-        "download_mods"
-      ]
-    },
-    {
-      "username": "moderator",
-      "password": "mod123",
-      "role": "admin",
-      "email": "mod@example.com",
-      "lastLogin": null,
-      "permissions": [
-        "manage_settings",
-        "download_mods",
-        "upload_mods"
-      ]
-    },
-    {
-      "username": "user2",
-      "password": "pass123",
-      "role": "user",
-      "email": "user2@example.com",
-      "lastLogin": null,
       "permissions": [
         "download_mods"
       ]
     }
-  ],
-  "roles": {
-    "admin": {
-      "name": "Administrator",
-      "description": "Full access to all features",
-      "color": "#FFD700"
-    },
-    "user": {
-      "name": "User",
-      "description": "Basic access to download mods",
-      "color": "#FFFFFF"
-    }
-  }
+  ]
 }
