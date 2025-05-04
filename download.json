@@ -1,113 +1,113 @@
 {
-    "graphics": [
-        {
-            "name": "Citizen RP",
-            "description": "Mod grafis ultra-realistis untuk GTA V",
-            "image": "https://cdn.discordapp.com/attachments/1358424089320230923/1358424590421856266/image-192.png?ex=68180c3c&is=6816babc&hm=29851e2d7f34427641cad72bc6c9cd53d933d34e0aff0ae4913f176609132520&",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "citizen rp.zip"
-        },
-        {
-            "name": "Citizen Sky Blue",
-            "description": "Preset grafis cinematic dengan efek visual yang menakjubkan",
-            "image": "https://cdn.discordapp.com/attachments/1316959127871815690/1344026032373497857/image.png?ex=6817bdc8&is=68166c48&hm=72ae43e0ee1d2f472539c24258765ccb26892971aef204a1d2bf741c764b5964&",
-            "downloadUrl": "https://example.com/mods/quantv.zip",
-            "filename": "quantv.zip"
-        },
-        {
-            "name": "Redux Graphics",
-            "description": "Peningkatan visual dengan fokus pada pencahayaan realistis",
-            "image": "https://via.placeholder.com/300x200?text=Redux",
-            "downloadUrl": "https://example.com/mods/redux.zip",
-            "filename": "redux.zip"
-        },
-        {
-            "name": "M.V.G.A",
-            "description": "Make Visuals Great Again - mod grafis yang meningkatkan tekstur",
-            "image": "https://via.placeholder.com/300x200?text=MVGA",
-            "downloadUrl": "https://example.com/mods/mvga.zip",
-            "filename": "mvga.zip"
-        },
-        {
-            "name": "Real California",
-            "description": "Preset grafis yang terinspirasi dari pemandangan California",
-            "image": "https://via.placeholder.com/300x200?text=Real+California",
-            "downloadUrl": "https://example.com/mods/realcalifornia.zip",
-            "filename": "realcalifornia.zip"
-        }
-    ],
-    "modifications": [
-        {
-            "name": "Vehicle Spawner",
-            "description": "Spawn kendaraan apa saja dengan mudah",
-            "image": "https://via.placeholder.com/300x200?text=Vehicle+Spawner",
-            "downloadUrl": "https://example.com/mods/vehiclespawner.zip",
-            "filename": "vehiclespawner.zip"
-        },
-        {
-            "name": "Script Hook V",
-            "description": "Library dasar untuk menjalankan mod script",
-            "image": "https://via.placeholder.com/300x200?text=Script+Hook+V",
-            "downloadUrl": "https://example.com/mods/scripthookv.zip",
-            "filename": "scripthookv.zip"
-        },
-        {
-            "name": "Simple Trainer",
-            "description": "Trainer all-in-one untuk GTA V",
-            "image": "https://via.placeholder.com/300x200?text=Simple+Trainer",
-            "downloadUrl": "https://example.com/mods/simpletrainer.zip",
-            "filename": "simpletrainer.zip"
-        },
-        {
-            "name": "Real Life Mod",
-            "description": "Tambahkan fitur kehidupan nyata ke dalam game",
-            "image": "https://via.placeholder.com/300x200?text=Real+Life+Mod",
-            "downloadUrl": "https://example.com/mods/reallife.zip",
-            "filename": "reallife.zip"
-        },
-        {
-            "name": "Enhanced Police",
-            "description": "Tingkatkan sistem kepolisian dalam game",
-            "image": "https://via.placeholder.com/300x200?text=Enhanced+Police",
-            "downloadUrl": "https://example.com/mods/police.zip",
-            "filename": "police.zip"
-        }
-    ],
-    "soundpacks": [
-        {
-            "name": "Real Engine Sounds",
-            "description": "Suara mesin kendaraan yang lebih realistis",
-            "video": "https://www.youtube.com/watch?v=QJUnw1ZSdso",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "enginesounds.zip"
-        },
-        {
-            "name": "Enhanced Radio",
-            "description": "Tambahan stasiun radio dan lagu baru",
-            "video": "https://cdn.discordapp.com/attachments/1194665370037014689/1194668052210536498/1105_1_1.mov?ex=68183413&is=6816e293&hm=62a0778e6c61792bfff825cc99252ac5cc49d040a0cefd8cb38a3448a6e4758d&",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "radio.zip"
-        },
-        {
-            "name": "Weapon Sounds",
-            "description": "Suara senjata yang lebih realistis",
-            "video": "https://cdn.discordapp.com/attachments/1323028420569071747/1363483450904019125/vlc-record-2025-04-20-14h39m26s-2025-04-20_04-21-55.mp4-.mp4?ex=6817feaa&is=6816ad2a&hm=7fdac655df6a283d5adf64fb612659061d2174e674979953047dfa536e6e2ccf&",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "weapons.zip"
-        },
-        {
-            "name": "Ambient Sounds",
-            "description": "Peningkatan suara lingkungan dan atmosfer",
-            "video": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "ambient.zip"
-        },
-        {
-            "name": "Police Scanner",
-            "description": "Suara radio polisi yang lebih autentik",
-            "video": "https://streamable.com/sww3qs",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1363768036560998512/1367788205080051765/ImGui-Loader-Base-master.zip?ex=68172d08&is=6815db88&hm=eaad53a3b4bce8c937d92c06d3aafa483a37a4406b4802dec71f80db85866815&",
-            "filename": "scanner.zip"
-        }
-    ]
+  "graphics": [
+    {
+      "name": "Natural Vision Evolved",
+      "description": "Mod grafis ultra-realistis untuk GTA V",
+      "preview": "https://example.com/nvision.jpg",
+      "url": "https://example.com/downloads/nvision.zip",
+      "filename": "nvision.zip"
+    },
+    {
+      "name": "QuantV",
+      "description": "Preset grafis cinematic untuk GTA V",
+      "preview": "https://example.com/quantv.jpg",
+      "url": "https://example.com/downloads/quantv.zip",
+      "filename": "quantv.zip"
+    },
+    {
+      "name": "Redux",
+      "description": "Mod grafis dengan efek visual yang ditingkatkan",
+      "preview": "https://example.com/redux.jpg",
+      "url": "https://example.com/downloads/redux.zip",
+      "filename": "redux.zip"
+    },
+    {
+      "name": "M.V.G.A",
+      "description": "Make Visuals Great Again - Mod grafis realistis",
+      "preview": "https://example.com/mvga.jpg",
+      "url": "https://example.com/downloads/mvga.zip",
+      "filename": "mvga.zip"
+    },
+    {
+      "name": "Real California",
+      "description": "Preset grafis dengan nuansa California yang realistis",
+      "preview": "https://example.com/realcal.jpg",
+      "url": "https://example.com/downloads/realcal.zip",
+      "filename": "realcal.zip"
+    }
+  ],
+  "modifications": [
+    {
+      "name": "Vehicle Pack 2023",
+      "description": "Kumpulan kendaraan modern terbaru",
+      "preview": "https://example.com/vehpack.jpg",
+      "url": "https://example.com/downloads/vehpack.zip",
+      "filename": "vehpack.zip"
+    },
+    {
+      "name": "Weapon Pack Pro",
+      "description": "Koleksi senjata modern dan klasik",
+      "preview": "https://example.com/weapons.jpg",
+      "url": "https://example.com/downloads/weapons.zip",
+      "filename": "weapons.zip"
+    },
+    {
+      "name": "Police Enhancement",
+      "description": "Peningkatan sistem kepolisian",
+      "preview": "https://example.com/police.jpg",
+      "url": "https://example.com/downloads/police.zip",
+      "filename": "police.zip"
+    },
+    {
+      "name": "Real Traffic",
+      "description": "Sistem lalu lintas yang lebih realistis",
+      "preview": "https://example.com/traffic.jpg",
+      "url": "https://example.com/downloads/traffic.zip",
+      "filename": "traffic.zip"
+    },
+    {
+      "name": "Enhanced AI",
+      "description": "Peningkatan kecerdasan buatan NPC",
+      "preview": "https://example.com/ai.jpg",
+      "url": "https://example.com/downloads/ai.zip",
+      "filename": "ai.zip"
+    }
+  ],
+  "soundpacks": [
+    {
+      "name": "Real Engine Sounds",
+      "description": "Suara mesin kendaraan realistis",
+      "preview": "https://example.com/engines.mp4",
+      "url": "https://example.com/downloads/engines.zip",
+      "filename": "engines.zip"
+    },
+    {
+      "name": "Enhanced Weapons Audio",
+      "description": "Suara senjata yang lebih realistis",
+      "preview": "https://example.com/weapons-sound.mp4",
+      "url": "https://example.com/downloads/weapons-sound.zip",
+      "filename": "weapons-sound.zip"
+    },
+    {
+      "name": "Ambient Sounds Pro",
+      "description": "Peningkatan suara lingkungan",
+      "preview": "https://example.com/ambient.mp4",
+      "url": "https://example.com/downloads/ambient.zip",
+      "filename": "ambient.zip"
+    },
+    {
+      "name": "Radio Enhancement",
+      "description": "Tambahan stasiun radio custom",
+      "preview": "https://example.com/radio.mp4",
+      "url": "https://example.com/downloads/radio.zip",
+      "filename": "radio.zip"
+    },
+    {
+      "name": "Sirens Pack",
+      "description": "Suara sirine kendaraan darurat realistis",
+      "preview": "https://example.com/sirens.mp4",
+      "url": "https://example.com/downloads/sirens.zip",
+      "filename": "sirens.zip"
+    }
+  ]
 }
