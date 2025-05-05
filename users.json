@@ -1,12 +1,13 @@
-[
   {
-    "serialKey": "2",
-    "isAdmin": false,
-    "username": "user1"
+    "serialKey": "ADMIN123456",
+    "isAdmin": true
   },
   {
-    "serialKey": "1",
-    "isAdmin": true,
-    "username": "admin1"
+    "serialKey": "USER123456",
+    "isAdmin": false
+  },
+  {
+    "serialKey": "GUEST123456",
+    "isAdmin": false
   }
 ]
