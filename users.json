@@ -1,11 +1,11 @@
 [
   {
-    "serialKey": "ABC123-USER-0001",
+    "serialKey": "2",
     "isAdmin": false,
     "username": "user1"
   },
   {
-    "serialKey": "XYZ789-ADMIN-0001",
+    "serialKey": "1",
     "isAdmin": true,
     "username": "admin1"
   }
