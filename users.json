@@ -1,9 +1,9 @@
   {
-    "serialKey": "ADMIN123456",
+    "serialKey": "1",
     "isAdmin": true
   },
   {
-    "serialKey": "USER123456",
+    "serialKey": "2",
     "isAdmin": false
   },
   {
