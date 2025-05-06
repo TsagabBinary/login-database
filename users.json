@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "user1",
+    "serialKey": "ABC123",
+    "username": "user_one",
+    "email": "user1@example.com",
+    "createdAt": "2024-01-01T12:00:00Z"
+  },
+  {
+    "id": "user2",
+    "serialKey": "DEF456",
+    "username": "user_two",
+    "email": "user2@example.com",
+    "createdAt": "2024-01-02T15:30:00Z"
+  }
+]
