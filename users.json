@@ -1,18 +1,22 @@
 [
   {
     "Username": "admin",
-    "SerialKey": "ADMIN-0000-KEY"
+    "SerialKey": "1",
+    "IsAdmin": true
   },
   {
     "Username": "user1",
-    "SerialKey": "ABC123-XYZ789"
+    "SerialKey": "2",
+    "IsAdmin": false
   },
   {
     "Username": "user2",
-    "SerialKey": "DEF456-UVW123"
+    "SerialKey": "USER2-3456-7890-CDEF",
+    "IsAdmin": false
   },
   {
-    "Username": "user3",
-    "SerialKey": "GHI789-RST456"
+    "Username": "moderator",
+    "SerialKey": "MOD-4567-8901-DEFG",
+    "IsAdmin": true
   }
 ]
