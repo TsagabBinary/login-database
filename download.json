@@ -1,18 +1,18 @@
 {
   "soundpack": [
     {
-      "urlDownload": "https://example.com/soundpack1.zip",
-      "urlDisplay": "https://example.com/videos/soundpack1.mp4"
+      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
+      "urlDisplay": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820071351877795/image.png?ex=681a98ef&is=6819476f&hm=8ff6efeebbe9ab56b5121d7eee255c822f30c3050f0ba4538b259fb3f66c0e6c&"
     },
     {
       "urlDownload": "https://example.com/soundpack2.zip",
-      "urlDisplay": "https://example.com/videos/soundpack2.mp4"
+      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
     }
   ],
   "graphics": [
     {
-      "urlDownload": "https://example.com/graphics1.zip",
-      "urlDisplay": "https://example.com/videos/graphics1.mp4"
+      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
+      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
     },
     {
       "urlDownload": "https://example.com/graphics2.zip",
@@ -21,8 +21,8 @@
   ],
   "modifications": [
     {
-      "urlDownload": "https://example.com/mod1.zip",
-      "urlDisplay": "https://example.com/videos/mod1.mp4"
+      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
+      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
     },
     {
       "urlDownload": "https://example.com/mod2.zip",
