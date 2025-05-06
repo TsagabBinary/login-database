@@ -1,113 +1,32 @@
 {
+  "soundpack": [
+    {
+      "urlDownload": "https://example.com/soundpack1.zip",
+      "urlDisplay": "https://example.com/videos/soundpack1.mp4"
+    },
+    {
+      "urlDownload": "https://example.com/soundpack2.zip",
+      "urlDisplay": "https://example.com/videos/soundpack2.mp4"
+    }
+  ],
   "graphics": [
     {
-      "name": "Natural Vision Evolved",
-      "description": "Mod grafis ultra-realistis untuk GTA V",
-      "preview": "https://example.com/nvision.jpg",
-      "url": "https://example.com/downloads/nvision.zip",
-      "filename": "nvision.zip"
+      "urlDownload": "https://example.com/graphics1.zip",
+      "urlDisplay": "https://example.com/videos/graphics1.mp4"
     },
     {
-      "name": "QuantV",
-      "description": "Preset grafis cinematic untuk GTA V",
-      "preview": "https://example.com/quantv.jpg",
-      "url": "https://example.com/downloads/quantv.zip",
-      "filename": "quantv.zip"
-    },
-    {
-      "name": "Redux",
-      "description": "Mod grafis dengan efek visual yang ditingkatkan",
-      "preview": "https://example.com/redux.jpg",
-      "url": "https://example.com/downloads/redux.zip",
-      "filename": "redux.zip"
-    },
-    {
-      "name": "M.V.G.A",
-      "description": "Make Visuals Great Again - Mod grafis realistis",
-      "preview": "https://example.com/mvga.jpg",
-      "url": "https://example.com/downloads/mvga.zip",
-      "filename": "mvga.zip"
-    },
-    {
-      "name": "Real California",
-      "description": "Preset grafis dengan nuansa California yang realistis",
-      "preview": "https://example.com/realcal.jpg",
-      "url": "https://example.com/downloads/realcal.zip",
-      "filename": "realcal.zip"
+      "urlDownload": "https://example.com/graphics2.zip",
+      "urlDisplay": "https://example.com/videos/graphics2.mp4"
     }
   ],
   "modifications": [
     {
-      "name": "Vehicle Pack 2023",
-      "description": "Kumpulan kendaraan modern terbaru",
-      "preview": "https://example.com/vehpack.jpg",
-      "url": "https://example.com/downloads/vehpack.zip",
-      "filename": "vehpack.zip"
+      "urlDownload": "https://example.com/mod1.zip",
+      "urlDisplay": "https://example.com/videos/mod1.mp4"
     },
     {
-      "name": "Weapon Pack Pro",
-      "description": "Koleksi senjata modern dan klasik",
-      "preview": "https://example.com/weapons.jpg",
-      "url": "https://example.com/downloads/weapons.zip",
-      "filename": "weapons.zip"
-    },
-    {
-      "name": "Police Enhancement",
-      "description": "Peningkatan sistem kepolisian",
-      "preview": "https://example.com/police.jpg",
-      "url": "https://example.com/downloads/police.zip",
-      "filename": "police.zip"
-    },
-    {
-      "name": "Real Traffic",
-      "description": "Sistem lalu lintas yang lebih realistis",
-      "preview": "https://example.com/traffic.jpg",
-      "url": "https://example.com/downloads/traffic.zip",
-      "filename": "traffic.zip"
-    },
-    {
-      "name": "Enhanced AI",
-      "description": "Peningkatan kecerdasan buatan NPC",
-      "preview": "https://example.com/ai.jpg",
-      "url": "https://example.com/downloads/ai.zip",
-      "filename": "ai.zip"
-    }
-  ],
-  "soundpacks": [
-    {
-      "name": "Real Engine Sounds",
-      "description": "Suara mesin kendaraan realistis",
-      "preview": "https://example.com/engines.mp4",
-      "url": "https://example.com/downloads/engines.zip",
-      "filename": "engines.zip"
-    },
-    {
-      "name": "Enhanced Weapons Audio",
-      "description": "Suara senjata yang lebih realistis",
-      "preview": "https://example.com/weapons-sound.mp4",
-      "url": "https://example.com/downloads/weapons-sound.zip",
-      "filename": "weapons-sound.zip"
-    },
-    {
-      "name": "Ambient Sounds Pro",
-      "description": "Peningkatan suara lingkungan",
-      "preview": "https://example.com/ambient.mp4",
-      "url": "https://example.com/downloads/ambient.zip",
-      "filename": "ambient.zip"
-    },
-    {
-      "name": "Radio Enhancement",
-      "description": "Tambahan stasiun radio custom",
-      "preview": "https://example.com/radio.mp4",
-      "url": "https://example.com/downloads/radio.zip",
-      "filename": "radio.zip"
-    },
-    {
-      "name": "Sirens Pack",
-      "description": "Suara sirine kendaraan darurat realistis",
-      "preview": "https://example.com/sirens.mp4",
-      "url": "https://example.com/downloads/sirens.zip",
-      "filename": "sirens.zip"
+      "urlDownload": "https://example.com/mod2.zip",
+      "urlDisplay": "https://example.com/videos/mod2.mp4"
     }
   ]
 }
