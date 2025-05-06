@@ -1,15 +1,15 @@
 {
   "graphics": [
     {
-      "videoUrl": "https://example.com/graphics/video1.mp4",
-      "downloadUrl": "https://example.com/graphics/download1.zip"
+      "videoUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353891016746471485/WoltzREDRINkatega.rar?ex=681aabc4&is=68195a44&hm=b16bb223ef83f86d1a96343684af9026655006175d7fc02306dc640eb10c470e&"
     },
     {
-      "videoUrl": "https://example.com/graphics/video2.mp4",
-      "downloadUrl": "https://example.com/graphics/download2.zip"
+      "videoUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353891016746471485/WoltzREDRINkatega.rar?ex=681aabc4&is=68195a44&hm=b16bb223ef83f86d1a96343684af9026655006175d7fc02306dc640eb10c470e&"
     },
     {
-      "videoUrl": "https://example.com/graphics/video3.mp4",
+      "videoUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
       "downloadUrl": "https://example.com/graphics/download3.zip"
     },
     {
@@ -23,12 +23,12 @@
   ],
   "modifications": [
     {
-      "mediaUrl": "https://example.com/mods/media1.mp4",
-      "downloadUrl": "https://example.com/mods/download1.zip"
+      "mediaUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353891016746471485/WoltzREDRINkatega.rar?ex=681aabc4&is=68195a44&hm=b16bb223ef83f86d1a96343684af9026655006175d7fc02306dc640eb10c470e&"
     },
     {
-      "mediaUrl": "https://example.com/mods/media2.mp4",
-      "downloadUrl": "https://example.com/mods/download2.zip"
+      "mediaUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353891016746471485/WoltzREDRINkatega.rar?ex=681aabc4&is=68195a44&hm=b16bb223ef83f86d1a96343684af9026655006175d7fc02306dc640eb10c470e&"
     },
     {
       "mediaUrl": "https://example.com/mods/media3.mp4",
@@ -45,11 +45,11 @@
   ],
   "soundpack": [
     {
-      "videoUrl": "https://example.com/soundpack/video1.mp4",
-      "downloadUrl": "https://example.com/soundpack/download1.zip"
+      "videoUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353891016746471485/WoltzREDRINkatega.rar?ex=681aabc4&is=68195a44&hm=b16bb223ef83f86d1a96343684af9026655006175d7fc02306dc640eb10c470e&"
     },
     {
-      "videoUrl": "https://example.com/soundpack/video2.mp4",
+      "videoUrl": "https://cdn.discordapp.com/attachments/949230103546691619/1353890833300066396/Desktop_2025.03.16_-_10.52.46.25.DVR.mp4?ex=681aab98&is=68195a18&hm=8ae88dbd17938cc067394311f9a0c191813dea32086ba48159dba1218bd68e7c&",
       "downloadUrl": "https://example.com/soundpack/download2.zip"
     },
     {
