@@ -1,26 +1,18 @@
 [
-{
-"id": "user1",
-"serialKey": "ABC123",
-"username": "user_one",
-"email": "user1@example.com",
-"role": "user",
-"createdAt": "2024-01-01T12:00:00Z"
-},
-{
-"id": "user2",
-"serialKey": "DEF456",
-"username": "user_two",
-"email": "user2@example.com",
-"role": "user",
-"createdAt": "2024-01-02T15:30:00Z"
-},
-{
-"id": "admin1",
-"serialKey": "ADMIN789",
-"username": "admin_user",
-"email": "admin@example.com",
-"role": "admin",
-"createdAt": "2024-06-01T10:00:00Z"
-}
+  {
+    "Username": "admin",
+    "SerialKey": "ADMIN-0000-KEY"
+  },
+  {
+    "Username": "user1",
+    "SerialKey": "ABC123-XYZ789"
+  },
+  {
+    "Username": "user2",
+    "SerialKey": "DEF456-UVW123"
+  },
+  {
+    "Username": "user3",
+    "SerialKey": "GHI789-RST456"
+  }
 ]
