@@ -1,11 +1,16 @@
 [
   {
-    "Username": "admin",
+    "Username": "1",
     "SerialKey": "1",
     "IsAdmin": true
   },
   {
-    "Username": "user1",
+    "Username": "moderator",
+    "SerialKey": "MOD-4567-8901-DEFG",
+    "IsAdmin": true
+  },
+  {
+    "Username": "2",
     "SerialKey": "2",
     "IsAdmin": false
   },
@@ -15,13 +20,13 @@
     "IsAdmin": false
   },
   {
-    "Username": "moderator",
-    "SerialKey": "MOD-4567-8901-DEFG",
-    "IsAdmin": true
+    "Username": "user3",
+    "SerialKey": "USER3-5678-9012-EFGH",
+    "IsAdmin": false
   },
   {
-    "Username": "juadi",
-    "SerialKey": "3",
+    "Username": "tester",
+    "SerialKey": "TEST-6789-0123-FGHI",
     "IsAdmin": false
   }
 ]
