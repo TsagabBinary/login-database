@@ -18,5 +18,10 @@
     "Username": "moderator",
     "SerialKey": "MOD-4567-8901-DEFG",
     "IsAdmin": true
+  },
+  {
+    "Username": "juadi",
+    "SerialKey": "3",
+    "IsAdmin": false
   }
 ]
