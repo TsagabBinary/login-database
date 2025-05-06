@@ -1,1 +1,8 @@
-{"username":"user1","serialKey":"ABC123XYZ"}
+[
+{
+"username": "testuser",
+"serialKey": "TEST123",
+"gtaPath": "",
+"fivemPath": ""
+}
+]
