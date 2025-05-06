@@ -1,13 +1,1 @@
-  {
-    "serialKey": "1",
-    "isAdmin": true
-  },
-  {
-    "serialKey": "2",
-    "isAdmin": false
-  },
-  {
-    "serialKey": "GUEST123456",
-    "isAdmin": false
-  }
-]
+{"username":"user1","serialKey":"ABC123XYZ"}"
