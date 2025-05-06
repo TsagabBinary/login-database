@@ -1,32 +1,68 @@
 {
-  "soundpack": [
-    {
-      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
-      "urlDisplay": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820071351877795/image.png?ex=681a98ef&is=6819476f&hm=8ff6efeebbe9ab56b5121d7eee255c822f30c3050f0ba4538b259fb3f66c0e6c&"
-    },
-    {
-      "urlDownload": "https://example.com/soundpack2.zip",
-      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
-    }
-  ],
   "graphics": [
     {
-      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
-      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
+      "videoUrl": "https://example.com/graphics/video1.mp4",
+      "downloadUrl": "https://example.com/graphics/download1.zip"
     },
     {
-      "urlDownload": "https://example.com/graphics2.zip",
-      "urlDisplay": "https://example.com/videos/graphics2.mp4"
+      "videoUrl": "https://example.com/graphics/video2.mp4",
+      "downloadUrl": "https://example.com/graphics/download2.zip"
+    },
+    {
+      "videoUrl": "https://example.com/graphics/video3.mp4",
+      "downloadUrl": "https://example.com/graphics/download3.zip"
+    },
+    {
+      "videoUrl": "https://example.com/graphics/video4.mp4",
+      "downloadUrl": "https://example.com/graphics/download4.zip"
+    },
+    {
+      "videoUrl": "https://example.com/graphics/video5.mp4",
+      "downloadUrl": "https://example.com/graphics/download5.zip"
     }
   ],
   "modifications": [
     {
-      "urlDownload": "https://cdn.discordapp.com/attachments/1360308969226371285/1360715093557514331/eaxpackbooster_strafe.rar?ex=681a72af&is=6819212f&hm=099afa54e3ef07b6e0186d0fccd979d9dc89ffeb75b0efca412714929c7de217&",
-      "urlDisplay": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&"
+      "mediaUrl": "https://example.com/mods/media1.mp4",
+      "downloadUrl": "https://example.com/mods/download1.zip"
     },
     {
-      "urlDownload": "https://example.com/mod2.zip",
-      "urlDisplay": "https://example.com/videos/mod2.mp4"
+      "mediaUrl": "https://example.com/mods/media2.mp4",
+      "downloadUrl": "https://example.com/mods/download2.zip"
+    },
+    {
+      "mediaUrl": "https://example.com/mods/media3.mp4",
+      "downloadUrl": "https://example.com/mods/download3.zip"
+    },
+    {
+      "mediaUrl": "https://example.com/mods/media4.mp4",
+      "downloadUrl": "https://example.com/mods/download4.zip"
+    },
+    {
+      "mediaUrl": "https://example.com/mods/media5.mp4",
+      "downloadUrl": "https://example.com/mods/download5.zip"
+    }
+  ],
+  "soundpack": [
+    {
+      "videoUrl": "https://example.com/soundpack/video1.mp4",
+      "downloadUrl": "https://example.com/soundpack/download1.zip"
+    },
+    {
+      "videoUrl": "https://example.com/soundpack/video2.mp4",
+      "downloadUrl": "https://example.com/soundpack/download2.zip"
+    },
+    {
+      "videoUrl": "https://example.com/soundpack/video3.mp4",
+      "downloadUrl": "https://example.com/soundpack/download3.zip"
+    },
+    {
+      "videoUrl": "https://example.com/soundpack/video4.mp4",
+      "downloadUrl": "https://example.com/soundpack/download4.zip"
+    },
+    {
+      "videoUrl": "https://example.com/soundpack/video5.mp4",
+      "downloadUrl": "https://example.com/soundpack/download5.zip"
     }
   ]
 }
