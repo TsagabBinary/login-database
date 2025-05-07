@@ -1,32 +1,20 @@
 [
   {
-    "Username": "1",
-    "SerialKey": "1",
-    "IsAdmin": true
+    "username": "admin",
+    "serial_key": "ABC123-DEF456-GHI789",
+    "is_admin": true,
+    "activated_at": "2024-12-01T10:15:00Z"
   },
   {
-    "Username": "moderator",
-    "SerialKey": "MOD-4567-8901-DEFG",
-    "IsAdmin": true
+    "username": "user1",
+    "serial_key": "JKL111-MNO222-PQR333",
+    "is_admin": false,
+    "activated_at": "2025-01-15T08:00:00Z"
   },
   {
-    "Username": "2",
-    "SerialKey": "2",
-    "IsAdmin": false
-  },
-  {
-    "Username": "user2",
-    "SerialKey": "USER2-3456-7890-CDEF",
-    "IsAdmin": false
-  },
-  {
-    "Username": "user3",
-    "SerialKey": "USER3-5678-9012-EFGH",
-    "IsAdmin": false
-  },
-  {
-    "Username": "tester",
-    "SerialKey": "TEST-6789-0123-FGHI",
-    "IsAdmin": false
+    "username": "user2",
+    "serial_key": "STU444-VWX555-YZA666",
+    "is_admin": false,
+    "activated_at": null
   }
 ]
