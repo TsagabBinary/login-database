@@ -1,82 +1,38 @@
 {
-  "soundpack": [
-    {
-      "VideoSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Enhanced Vehicle Sounds",
-      "description": "Realistic engine and exhaust sounds for GTA V vehicles",
-      "size": "250 MB"
-    },
-    {
-      "VideoSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Weapon Sound Effects",
-      "description": "High-quality weapon sound effects pack",
-      "size": "180 MB"
-    }
-  ],
   "graphics": [
     {
-      "VideoSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Enhanced Textures",
-      "description": "4K textures for buildings and vehicles",
-      "size": "2.1 GB"
+      "title": "Graphics Pack Ultra",
+      "video": "https://www.youtube.com/embed/abcdefgh",
+      "download_url": "https://example.com/files/graphics_pack_ultra.zip"
     },
     {
-      "VideoSource": {
-        "displayUrl": "https://example.com/previews/graphics2.mp4",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Lighting Mod",
-      "description": "Improved lighting and shadows for FiveM",
-      "size": "1.5 GB"
-    },
-    {
-      "title": "citizen rp",
-      "description": "",
-      "size": "",
-      "VideoSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681ac5ba&is=6819743a&hm=6e406dd18d22426180b40e89bb3578f692b0589c94cc1249e31115c4ea819531&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681af152&is=68199fd2&hm=baa5dea088b2d3e6294f5737c7d9a5b4d44acdd10ff49e90cf83ca30d8eb9239&"
-      }
+      "title": "VisualV Enhanced",
+      "video": "https://www.youtube.com/embed/hijklmn",
+      "download_url": "https://example.com/files/visualv_enhanced.zip"
     }
   ],
   "modifications": [
     {
-      "MediaSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Car Pack",
-      "description": "Collection of high-quality car models",
-      "size": "3.2 GB"
+      "title": "Police Car Mod",
+      "image": "https://example.com/images/police_mod.jpg",
+      "download_url": "https://example.com/files/police_mod.zip"
     },
     {
-      "MediaSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1361104158761029762/1362823758167015565/fpwpaket2.mp4?ex=681ade47&is=68198cc7&hm=f932ed6f18a94e42254123c0bb582553391395194733912c35a3a3d0cbecb7d6&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1315819865537380494/1315820077110661160/FPS_BOOST_BUNDLE_VIP.rar?ex=681a98f1&is=68194771&hm=e8288f48d7683e7f8765ee7a66c37871815d883137e3f456ee401c5822f7e795&"
-      },
-      "title": "Map Enhancement",
-      "description": "Enhanced map textures and details",
-      "size": "4.5 GB"
+      "title": "Realistic Weapons",
+      "image": "https://example.com/images/weapons_mod.jpg",
+      "download_url": "https://example.com/files/realistic_weapons.zip"
     }
   ],
-  "soundpacks": [
+  "soundpack": [
     {
-      "title": "sp laras",
-      "description": "",
-      "size": "",
-      "MediaSource": {
-        "displayUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681ac5ba&is=6819743a&hm=6e406dd18d22426180b40e89bb3578f692b0589c94cc1249e31115c4ea819531&",
-        "downloadUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681af152&is=68199fd2&hm=baa5dea088b2d3e6294f5737c7d9a5b4d44acdd10ff49e90cf83ca30d8eb9239&"
-      }
+      "title": "Gun Sound Pack V2",
+      "video": "https://www.youtube.com/embed/opqrstu",
+      "download_url": "https://example.com/files/gun_sound_v2.zip"
+    },
+    {
+      "title": "Police Siren Remastered",
+      "video": "https://www.youtube.com/embed/wxyz123",
+      "download_url": "https://example.com/files/police_siren.zip"
     }
   ]
 }
