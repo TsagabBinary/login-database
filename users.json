@@ -1,20 +1,22 @@
 [
   {
-    "username": "admin",
-    "serial_key": "ABC123-DEF456-GHI789",
-    "is_admin": true,
-    "activated_at": "2024-12-01T10:15:00Z"
+    "username": "admin1",
+    "serial_key": "12345-ABCDE",
+    "role": "admin"
   },
   {
     "username": "user1",
-    "serial_key": "JKL111-MNO222-PQR333",
-    "is_admin": false,
-    "activated_at": "2025-01-15T08:00:00Z"
+    "serial_key": "54321-XYZ",
+    "role": "user"
   },
   {
     "username": "user2",
-    "serial_key": "STU444-VWX555-YZA666",
-    "is_admin": false,
-    "activated_at": null
+    "serial_key": "67890-WXYZ",
+    "role": "user"
+  },
+  {
+    "username": "admin2",
+    "serial_key": "ABCDE-12345",
+    "role": "admin"
   }
 ]
