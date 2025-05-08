@@ -1,38 +1,38 @@
 {
   "graphics": [
     {
-      "title": "Graphics Pack Ultra",
-      "video": "https://www.youtube.com/embed/abcdefgh",
-      "download_url": "https://example.com/files/graphics_pack_ultra.zip"
+      "title": "NaturalVision Evolved",
+      "video_url": "https://www.youtube.com/watch?v=abc123",
+      "download_url": "https://example.com/nve.zip"
     },
     {
-      "title": "VisualV Enhanced",
-      "video": "https://www.youtube.com/embed/hijklmn",
-      "download_url": "https://example.com/files/visualv_enhanced.zip"
+      "title": "VisualV",
+      "video_url": "https://www.youtube.com/watch?v=def456",
+      "download_url": "https://example.com/visualv.zip"
     }
   ],
   "modifications": [
     {
-      "title": "Police Car Mod",
-      "image": "https://example.com/images/police_mod.jpg",
-      "download_url": "https://example.com/files/police_mod.zip"
+      "title": "LSPD Pack",
+      "video_url": "https://www.youtube.com/watch?v=ghi789",
+      "download_url": "https://example.com/lspd_pack.zip"
     },
     {
-      "title": "Realistic Weapons",
-      "image": "https://example.com/images/weapons_mod.jpg",
-      "download_url": "https://example.com/files/realistic_weapons.zip"
+      "title": "Realistic Car Pack",
+      "video_url": "https://www.youtube.com/watch?v=jkl012",
+      "download_url": "https://example.com/car_pack.zip"
     }
   ],
   "soundpack": [
     {
-      "title": "Gun Sound Pack V2",
-      "video": "https://www.youtube.com/embed/opqrstu",
-      "download_url": "https://example.com/files/gun_sound_v2.zip"
+      "title": "Realistic Gun Sounds",
+      "video_url": "https://www.youtube.com/watch?v=mno345",
+      "download_url": "https://example.com/gunsound.zip"
     },
     {
-      "title": "Police Siren Remastered",
-      "video": "https://www.youtube.com/embed/wxyz123",
-      "download_url": "https://example.com/files/police_siren.zip"
+      "title": "Ambient Sounds",
+      "video_url": "https://www.youtube.com/watch?v=pqr678",
+      "download_url": "https://example.com/ambient.zip"
     }
   ]
 }
