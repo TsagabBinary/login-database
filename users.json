@@ -1,12 +1,12 @@
 [
   {
     "username": "admin1",
-    "serial_key": "12345-ABCDE",
+    "serial_key": "1",
     "role": "admin"
   },
   {
     "username": "user1",
-    "serial_key": "54321-XYZ",
+    "serial_key": "2",
     "role": "user"
   },
   {
