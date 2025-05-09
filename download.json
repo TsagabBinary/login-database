@@ -1,38 +1,72 @@
 {
   "graphics": [
     {
-      "title": "NaturalVision Evolved",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 1,
+      "title": "ENB Graphics Ultra",
+      "description": "Preset grafis ultra realistis untuk GTA V",
+      "video": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&",
+      "filename": "enb_ultra_preset.zip",
+      "extract": true,
+      "category": "graphics"
     },
     {
-      "title": "VisualV",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 2,
+      "title": "Redux Visuals",
+      "description": "Peningkatan visual menyeluruh",
+      "video": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&",
+      "filename": "redux_visuals_pack.rar",
+      "extract": true,
+      "category": "graphics"
     }
   ],
   "modifications": [
     {
-      "title": "LSPD Pack",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 1,
+      "title": "Realistic Car Handling",
+      "description": "Fisik mengemudi yang lebih realistis",
+      "image": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
+      "downloadUrl": "https://example.com/downloads/realistic_handling.zip",
+      "filename": "real_car_handling.zip",
+      "extract": true,
+      "category": "modifications",
+      "installPath": "mods/vehicles"
     },
     {
-      "title": "Realistic Car Pack",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 2,
+      "title": "Police Mega Pack",
+      "description": "Paket kendaraan polisi lengkap",
+      "video": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
+      "downloadUrl": "https://example.com/downloads/police_mega_pack.rar",
+      "filename": "police_vehicles.rar",
+      "extract": true,
+      "category": "modifications",
+      "installPath": "mods/police"
     }
   ],
   "soundpack": [
     {
-      "title": "Realistic Gun Sounds",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 1,
+      "title": "Bass Boost Engine Sounds",
+      "description": "Suara mesin dengan bass yang menggelegar",
+      "video": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
+      "downloadUrl": "https://example.com/downloads/bass_engine_sounds.zip",
+      "filename": "bass_engine.zip",
+      "extract": true,
+      "category": "soundpack",
+      "installPath": "x64/audio/sfx/vehicles"
     },
     {
-      "title": "Ambient Sounds",
-      "video_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1360985456228962304/Comp_1_1.mp4?ex=681d68ba&is=681c173a&hm=f6952f79636cfb09ef5c624986e5367eaefe1b88b21d37db98e65ea24ffab089&",
-      "download_url": "https://cdn.discordapp.com/attachments/1360984083890704454/1361032264208879746/fpw_1.rar?ex=681d9452&is=681c42d2&hm=75f1b1edd4b3897d18871eec583fd03690c686b8ce8e5d1e2277bd1717f165d2&"
+      "id": 2,
+      "title": "Real Weapon Sounds",
+      "description": "Efek suara senjata yang realistis",
+      "video": "https://example.com/videos/weapon_sounds.mp4",
+      "downloadUrl": "https://example.com/downloads/real_weapon_sounds.rar",
+      "filename": "weapon_sfx.rar",
+      "extract": true,
+      "category": "soundpack",
+      "installPath": "x64/audio/sfx/weapons"
     }
   ]
 }
