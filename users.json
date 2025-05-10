@@ -4,14 +4,14 @@
     "username": "john.doe",
     "email": "john.doe@example.com",
     "isAdmin": false,
-    "apiKey": "2"
+    "apiKey": "222222"
   },
   {
     "id": "user2",
     "username": "jane.smith",
     "email": "jane.smith@example.com",
     "isAdmin": true,
-    "apiKey": "1"
+    "apiKey": "111111"
   },
   {
     "id": "user3",
