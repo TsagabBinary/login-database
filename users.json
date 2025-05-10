@@ -1,42 +1,12 @@
 [
   {
-    "id": 1,
-    "username": "john_doe",
-    "email": "john.doe@example.com",
-    "role": "admin",
     "serial": "1",
-    "name": "John Doe"
+    "name": "Tsagab Admin",
+    "role": "admin"
   },
   {
-    "id": 2,
-    "username": "jane_smith",
-    "email": "jane.smith@example.com",
-    "role": "user",
     "serial": "2",
-    "name": "Jane Smith"
-  },
-  {
-    "id": 3,
-    "username": "alice_jones",
-    "email": "alice.jones@example.com",
-    "role": "user",
-    "serial": "LMN789",
-    "name": "Alice Jones"
-  },
-  {
-    "id": 4,
-    "username": "bob_brown",
-    "email": "bob.brown@example.com",
-    "role": "user",
-    "serial": "DEF012",
-    "name": "Bob Brown"
-  },
-  {
-    "id": 5,
-    "username": "charlie_black",
-    "email": "charlie.black@example.com",
-    "role": "admin",
-    "serial": "GHI345",
-    "name": "Charlie Black"
+    "name": "Budi User",
+    "role": "user"
   }
 ]
