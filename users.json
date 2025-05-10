@@ -1,12 +1,23 @@
 [
   {
-    "username": "admin",
-    "serialKey": "1",
-    "role": "admin"
+    "id": "user1",
+    "username": "john.doe",
+    "email": "john.doe@example.com",
+    "isAdmin": false,
+    "apiKey": "abcdef123456"
   },
   {
-    "username": "user1",
-    "serialKey": "2", 
-    "role": "user"
+    "id": "user2",
+    "username": "jane.smith",
+    "email": "jane.smith@example.com",
+    "isAdmin": true,
+    "apiKey": "ghijkl789012"
+  },
+  {
+    "id": "user3",
+    "username": "peter.jones",
+    "email": "peter.jones@example.com",
+    "isAdmin": false,
+    "apiKey": "mnopqr345678"
   }
 ]
