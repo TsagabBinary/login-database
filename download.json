@@ -65,7 +65,8 @@
       "title": "12",
       "video_url": "12",
       "media_url": "12",
-      "download_url": "12"
+      "download_url": "12",
+      "size": 100000
     }
   ]
 }
