@@ -24,6 +24,13 @@
       "download_url": "https://cdn.discordapp.com/attachments/1363768036560998512/1367193671417725092/image.png?ex=6822db14&is=68218994&hm=d6b989aed6961bc064d4e5c61530866303ad02a7ff36c3f4edc3a032a73f731f&"
     }
   ],
-  "modifications": [],
+  "modifications": [
+    {
+      "title": "1",
+      "video_url": "1",
+      "media_url": "1",
+      "download_url": "1"
+    }
+  ],
   "soundpack": []
 }
